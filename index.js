@@ -15,4 +15,4 @@ function createFareMultiplier(integer){
 }
 
 const fareDoubler=function(){
-  createFareMultiplier()*2;}
+  createFareMultiplier(2);}
